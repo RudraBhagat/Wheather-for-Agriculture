@@ -31,7 +31,7 @@ Weather-for-Agriculture/
 git clone [https://github.com/RudraBhagat/Wheather-for-Agriculture.git](https://github.com/RudraBhagat/Wheather-for-Agriculture.git)
 cd Wheather-for-Agriculture
 
-###2️⃣ **Create a Virtual Environment**
+### 2️⃣ **Create a Virtual Environment**
 python -m venv env
 env\Scripts\activate      
 
@@ -67,5 +67,5 @@ Output: Predicted values for next hour’s:
 
 *🎨 **Matplotlib** — Visualization
 
-###👨‍💻 **Author**
+### 👨‍💻 **Author**
 Rudra Bhagat
