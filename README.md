@@ -67,5 +67,7 @@ Output: Predicted values for next hour’s:
 
 *🎨 **Matplotlib** — Visualization
 
+---
+
 ### 👨‍💻 **Author**
 Rudra Bhagat
