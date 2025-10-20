@@ -14,17 +14,6 @@ This project implements a **deep learning-based weather forecasting model** usin
 
 ---
 
-## 🧱 Project Structure
-Weather-for-Agriculture/
-│
-├── app.py                           # Streamlit application for predictions
-├── Farmseasy.ipynb             # Jupyter Notebook for training the LSTM
-├── multi_Output_wheather_lstm.keras # Trained Keras model file
-├── weatherHistory.csv               # Historical weather dataset
-└── README.md                        # Project documentation
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
